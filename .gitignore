@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.onnx
+ .git
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# Datasets
+dataset/
+datasets/
+data/
+outputs/
+
+# Images & Videos (if they are datasets)
+images/
+videos/
+
+# Experiment outputs
+runs/
+wandb/
+outputs/
+
+# Node.js
+node_modules/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
